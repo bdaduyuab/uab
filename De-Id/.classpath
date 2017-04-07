@@ -4,8 +4,8 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="lib/slf4j-api.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-simple.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/ahocorasick"/>
-	<classpathentry kind="lib" path="C:/Users/Duy Bui/Dropbox/Codes/Githup/uab/Libs/stanford-corenlp-3.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Duy Bui/Dropbox/Codes/Githup/uab/Libs/stanford-corenlp-3.6.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duy Bui/Dropbox/Public/Libs/stanford-corenlp-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duy Bui/Dropbox/Public/Libs/stanford-corenlp-3.6.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Duy Bui/Dropbox/Public/Libs/ahocorasick.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
